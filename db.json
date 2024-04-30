@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Soccer ball",
+      "description": "Item for football playing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "2",
+      "name": "Skateboard",
+      "description": "Item for creative playing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "3",
+      "name": "Laptop",
+      "description": "Item for innovating and building"
+    }
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "4",
+      "name": "Headphones",
+      "description": "Item for listening"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "5",
+      "name": "Ice Skates",
+      "description": "Item for figure skating"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "6",
+      "name": "Gloves",
+      "description": "Item for keeping hands warm"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "user 1",
+      "description": "some user comment about item",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "user 2",
+      "description": "some user comment about item",
+      "itemId": "1"
+    }
+        {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "3",
+      "name": "user 3",
+      "description": "some user comment about item",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "4",
+      "name": "user 4",
+      "description": "some user comment about item",
+      "itemId": "1"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "agarciaromos's API",
+    "creator": "agarciaromo",
+    "about": "A collection of items to use for sports and studying",
+    "url": "https://www.agarciaromo.info"
+  }
+}
